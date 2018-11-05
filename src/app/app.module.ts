@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeroesComponent } from './heroes.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HeroService } from './hero.service';
-
+//ss
 @NgModule({
   declarations: [
     AppComponent,
